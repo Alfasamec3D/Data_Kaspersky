@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Generates db
+vulns.db
+
+# Files from archive
+versions.json
+vulnerabilities.json
